@@ -1,0 +1,16 @@
+{
+  "version": "0.1.0",
+  "description": "My new js application",
+  "private": true,
+  "name": "promeat",
+  "scripts": {
+    "start": "rss-scripts start",
+    "build": "rss-scripts build"
+  },
+  "devDependencies": {
+    "css-loader": "^6.5.1",
+    "rss-scripts": "^0.2.4",
+    "sass-loader": "^12.4.0",
+    "style-loader": "^3.3.1"
+  }
+}
